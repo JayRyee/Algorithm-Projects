@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bd30646-a3ec-42d7-b394-efa5b841b640" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1a3HaVTAa55p0kcwVJX5G8i1L4l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project7" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for mimir_testcases.GraphTests.test_18_dfs">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Project8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for mimir_testcases.GraphTests.test_06_get_edges" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Project8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;mimir_testcases.GraphTests.test_06_get_edges&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for mimir_testcases.GraphTests.test_08_add_to_graph" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Project8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;mimir_testcases.GraphTests.test_08_add_to_graph&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for mimir_testcases.GraphTests.test_10_construct_from_matrix" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Project8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;mimir_testcases.GraphTests.test_10_construct_from_matrix&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for mimir_testcases.GraphTests.test_16_bfs" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Project8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;mimir_testcases.GraphTests.test_16_bfs&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for mimir_testcases.GraphTests.test_18_dfs" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Project8" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;mimir_testcases.GraphTests.test_18_dfs&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for mimir_testcases.GraphTests.test_18_dfs" />
+        <item itemvalue="Python tests.Unittests for mimir_testcases.GraphTests.test_16_bfs" />
+        <item itemvalue="Python tests.Unittests for mimir_testcases.GraphTests.test_06_get_edges" />
+        <item itemvalue="Python tests.Unittests for mimir_testcases.GraphTests.test_10_construct_from_matrix" />
+        <item itemvalue="Python tests.Unittests for mimir_testcases.GraphTests.test_08_add_to_graph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bd30646-a3ec-42d7-b394-efa5b841b640" name="Default Changelist" comment="" />
+      <created>1585957420201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585957420201</updated>
+      <workItem from="1585957421325" duration="1793000" />
+      <workItem from="1585959228156" duration="2654000" />
+      <workItem from="1586013571817" duration="521000" />
+      <workItem from="1586014108036" duration="8258000" />
+      <workItem from="1586201715928" duration="12367000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="333" y="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585957426768">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="333" y="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1585957426768" />
+    <state x="807" y="370" key="FileChooserDialogImpl" timestamp="1586014091366">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="807" y="370" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1586014091366" />
+    <state width="1930" height="373" key="GridCell.Tab.0.bottom" timestamp="1586221836122">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1930" height="373" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1586221836122" />
+    <state width="1930" height="373" key="GridCell.Tab.0.center" timestamp="1586221836121">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1930" height="373" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1586221836121" />
+    <state width="1930" height="373" key="GridCell.Tab.0.left" timestamp="1586221836121">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1930" height="373" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1586221836121" />
+    <state width="1930" height="373" key="GridCell.Tab.0.right" timestamp="1586221836122">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1930" height="373" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1586221836122" />
+    <state width="1930" height="494" key="GridCell.Tab.1.bottom" timestamp="1586219871918">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1930" height="494" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1586219871918" />
+    <state width="1930" height="494" key="GridCell.Tab.1.center" timestamp="1586219871918">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1930" height="494" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1586219871918" />
+    <state width="1930" height="494" key="GridCell.Tab.1.left" timestamp="1586219871918">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1930" height="494" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1586219871918" />
+    <state width="1930" height="494" key="GridCell.Tab.1.right" timestamp="1586219871918">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1930" height="494" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1586219871918" />
+    <state x="1665" y="195" key="SettingsEditor" timestamp="1586013677848">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1665" y="195" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1586013677848" />
+    <state x="1063" y="321" width="875" height="477" key="com.intellij.ide.util.TipDialog" timestamp="1586201717695">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1063" y="321" width="875" height="477" key="com.intellij.ide.util.TipDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1586201717695" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mimir_testcases.py</url>
+          <line>348</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mimir_testcases.py</url>
+          <line>360</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project8$Unittests_for_mimir_testcases_GraphTests_test_06_get_edges.coverage" NAME="Unittests for mimir_testcases.GraphTests.test_06_get_edges Coverage Results" MODIFIED="1586202735776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project8$Unittests_for_mimir_testcases_GraphTests_test_10_construct_from_matrix.coverage" NAME="Unittests for mimir_testcases.GraphTests.test_10_construct_from_matrix Coverage Results" MODIFIED="1586016225884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project8$Unittests_for_mimir_testcases_GraphTests_test_18_dfs.coverage" NAME="Unittests for mimir_testcases.GraphTests.test_18_dfs Coverage Results" MODIFIED="1586221836117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project8$Unittests_for_mimir_testcases_GraphTests_test_03_get_vertices.coverage" NAME="Unittests for mimir_testcases.GraphTests.test_03_get_vertices Coverage Results" MODIFIED="1585960100742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project8$Unittests_for_mimir_testcases_GraphTests_test_08_add_to_graph.coverage" NAME="Unittests for mimir_testcases.GraphTests.test_08_add_to_graph Coverage Results" MODIFIED="1585961813593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project8$Unittests_for_mimir_testcases_GraphTests_test_01_vertex_methods.coverage" NAME="Unittests for mimir_testcases.GraphTests.test_01_vertex_methods Coverage Results" MODIFIED="1585959583701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project8$Unittests_for_mimir_testcases_GraphTests_test_05_reset_vertices.coverage" NAME="Unittests for mimir_testcases.GraphTests.test_05_reset_vertices Coverage Results" MODIFIED="1585960584321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project8$Unittests_for_mimir_testcases_GraphTests_test_16_bfs.coverage" NAME="Unittests for mimir_testcases.GraphTests.test_16_bfs Coverage Results" MODIFIED="1586217868603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

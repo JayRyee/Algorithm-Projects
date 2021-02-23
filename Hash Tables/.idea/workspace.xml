@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce054e1b-f100-4ed9-83ed-77222a30745b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZScgOycKzaGG8hak3xQb0qejl0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for mimir_testcases.TestProject1.test_keys_values_items">
+    <configuration name="Unittests for mimir_testcases.TestProject1.test_clear" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Project7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;mimir_testcases.TestProject1.test_clear&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for mimir_testcases.TestProject1.test_delitem" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Project7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;mimir_testcases.TestProject1.test_delitem&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for mimir_testcases.TestProject1.test_keys_values_items" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Project7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;mimir_testcases.TestProject1.test_keys_values_items&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for mimir_testcases.TestProject1.test_setdefault" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Project7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;mimir_testcases.TestProject1.test_setdefault&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for mimir_testcases.TestProject1.test_update" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Project7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;mimir_testcases.TestProject1.test_update&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for mimir_testcases.TestProject1.test_keys_values_items" />
+        <item itemvalue="Python tests.Unittests for mimir_testcases.TestProject1.test_clear" />
+        <item itemvalue="Python tests.Unittests for mimir_testcases.TestProject1.test_setdefault" />
+        <item itemvalue="Python tests.Unittests for mimir_testcases.TestProject1.test_update" />
+        <item itemvalue="Python tests.Unittests for mimir_testcases.TestProject1.test_delitem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce054e1b-f100-4ed9-83ed-77222a30745b" name="Default Changelist" comment="" />
+      <created>1584836045427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584836045427</updated>
+      <workItem from="1584836046644" duration="6812000" />
+      <workItem from="1584997211831" duration="2717000" />
+      <workItem from="1585237754504" duration="19000" />
+      <workItem from="1586014094237" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2067" height="398" key="GridCell.Tab.0.bottom" timestamp="1584997579328">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2067" height="398" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1584997579328" />
+    <state width="1357" height="276" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1584852497765" />
+    <state width="2067" height="398" key="GridCell.Tab.0.center" timestamp="1584997579328">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2067" height="398" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1584997579328" />
+    <state width="1357" height="276" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1584852497764" />
+    <state width="2067" height="398" key="GridCell.Tab.0.left" timestamp="1584997579328">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2067" height="398" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1584997579328" />
+    <state width="1357" height="276" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1584852497763" />
+    <state width="2067" height="398" key="GridCell.Tab.0.right" timestamp="1584997579328">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="2067" height="398" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1584997579328" />
+    <state width="1357" height="276" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1584852497764" />
+    <state x="1556" y="343" key="SettingsEditor" timestamp="1584997241507">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1556" y="343" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1584997241507" />
+    <state x="2080" y="520" key="com.intellij.ide.util.TipDialog" timestamp="1585237758241">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2080" y="520" key="com.intellij.ide.util.TipDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1585237758241" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mimir_testcases.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project7$Unittests_for_mimir_testcases_TestProject1_test_initialization.coverage" NAME="Unittests for mimir_testcases.TestProject1.test_initialization Coverage Results" MODIFIED="1584839539308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project7$Unittests_for_mimir_testcases_TestProject1_test_hash.coverage" NAME="Unittests for mimir_testcases.TestProject1.test_hash Coverage Results" MODIFIED="1584838958336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project7$Unittests_for_mimir_testcases_TestProject1_test_setdefault.coverage" NAME="Unittests for mimir_testcases.TestProject1.test_setdefault Coverage Results" MODIFIED="1584850667929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project7$Unittests_in_mimir_testcases_py.coverage" NAME="Unittests in mimir_testcases.py Coverage Results" MODIFIED="1584838679111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project7$Unittests_for_mimir_testcases_TestProject1_test_delitem.coverage" NAME="Unittests for mimir_testcases.TestProject1.test_delitem Coverage Results" MODIFIED="1584849838432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project7$Unittests_for_mimir_testcases_TestProject1_test_getitem.coverage" NAME="Unittests for mimir_testcases.TestProject1.test_getitem Coverage Results" MODIFIED="1584849827998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project7$Unittests_for_mimir_testcases_TestProject1_test_setitem.coverage" NAME="Unittests for mimir_testcases.TestProject1.test_setitem Coverage Results" MODIFIED="1584841029785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project7$Unittests_for_mimir_testcases_TestProject1_test_keys_values_items.coverage" NAME="Unittests for mimir_testcases.TestProject1.test_keys_values_items Coverage Results" MODIFIED="1584997579321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project7$Unittests_for_mimir_testcases_TestProject1_test_clear.coverage" NAME="Unittests for mimir_testcases.TestProject1.test_clear Coverage Results" MODIFIED="1584852497753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project7$Unittests_for_mimir_testcases_TestProject1_test_update.coverage" NAME="Unittests for mimir_testcases.TestProject1.test_update Coverage Results" MODIFIED="1584850434485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
